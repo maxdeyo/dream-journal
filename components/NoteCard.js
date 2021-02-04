@@ -19,7 +19,7 @@ export default function NoteCard({ item, onPress, style, deleteNote }){
         >
             <Card style={styles.cardStyle}>
                 <View style={styles.cardText}>
-                    <Text style={styles.title}>{item.id} {item.title}</Text>
+                    <Text style={styles.title}>{item.title}</Text>
                     <Text style={styles.text} numberOfLines={1}>{item.text}</Text>
                 </View>
                 {
