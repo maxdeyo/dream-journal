@@ -13,7 +13,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Appbar.Header style={styles.appBar}>
-        <Appbar.Content style={styles.headerText} title="My Dream Journal" />
+        <Appbar.Content style={styles.headerText} title="My Journal" />
       </Appbar.Header>
       <NoteList />
     </View>
