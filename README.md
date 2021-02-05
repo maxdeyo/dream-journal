@@ -10,4 +10,4 @@ Currently built for Android but should be able to run on iOS and web with some t
 3. Run ```npm i```
 4. Run ```expo start```
 
-![](./assets/journal_app_gif.gif)
+![](./assets/journal_app_gif.gif | width=100)
